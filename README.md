@@ -17,14 +17,6 @@
 - ⚡ Fun Fact: I love playing Football.
 
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/s-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-  ### Problem Solving Accounts :
-<a href="https://leetcode.com/u/BadryAnas/" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/BadryAnas" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
