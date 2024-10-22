@@ -19,8 +19,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/badryanas" target="_blank"><img src="https://img.shields.io/badge/Badry%20Anas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/badryanasbadry" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/s-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   ### Problem Solving Accounts :
 <a href="https://leetcode.com/u/BadryAnas/" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
@@ -36,7 +36,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BadryAnas&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <!--
 <a href="https://komarev.com/ghpvc/?username=BadryAnas&style=for-the-badge">
